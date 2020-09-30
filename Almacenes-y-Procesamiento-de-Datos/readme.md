@@ -15,3 +15,15 @@
 
 
 [Guía de Aprendizaje](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/2020-08-ITI562-Gu%C3%ADaAprendizaje.pdf)
+
+Módulo 1 - Conceptos básicos de bases de datos
+[S01: Lineamientos y Sistema de Bases de Datos]()
+[S02: Reto 1 - Procesos de Entrada y Salida de Datos]()
+[S03: Arquitectura, Independencia y Redundancia]()
+[S03: Solución de Métodos de Acceso]()
+[S04: Modelo de Datos y Acta de Constitución del Proyecto]()
+
+Módulo 1 - Presentaciones de modelos de datos
+
+
+Módulo 2 - Modelo Entidad-Relación
