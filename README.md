@@ -7,4 +7,4 @@ Almacenes y Procesaiento de Datos
 
 Aprendizaje Automatico para la CIencia de Datos
 
-Inteligencia Analitica de Negocios
+[Inteligencia Analitica de Negocios](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
