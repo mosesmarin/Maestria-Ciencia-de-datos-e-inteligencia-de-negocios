@@ -30,11 +30,17 @@
 
 ### Módulo 1 - Presentaciones de modelos de datos
 [MD-01-Jerárquico.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-01-Jer%C3%A1rquico.pptx)
+
 [MD-02-Red.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-02-Red.pptx)
+
 [MD-03-Relacional.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-03-Relacional.pptx)
+
 [MD-04-OrientadoObjetos.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-04-OrientadoObjetos.pdf)
+
 [MD-05-ClaveValor.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-05-ClaveValor.pdf)
+
 [MD-06-Documentos.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-06-Documentos.pptx)
+
 [MD-07-Grafos.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-07-Grafos.pptx)
 
 [MD-08-Columnas.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-08-Columnas.pptx)
