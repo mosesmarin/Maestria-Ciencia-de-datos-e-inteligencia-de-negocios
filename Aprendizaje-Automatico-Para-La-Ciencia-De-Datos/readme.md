@@ -15,9 +15,8 @@
 ### Tareas
 |  Nombre | Descripción  |  Solución |  Calificación |
 |---|---|---|---|
-|  Tarea 1: Ejemplos de problemas de Aprendizaje Automático | Encontrar y describir dos problemas que se resolvieron utilizando aprendizaje automático|Detección de Spam - algoritmo Naive Bayes
-Sistema de recomendaciones de productos - algoritmo K vecinos más próximos   |7/10 |
-| Tarea 2: Problemas en Datos  |   |   |  8/10 |
+|  Tarea 1: Ejemplos de problemas de Aprendizaje Automático | Encontrar y describir dos problemas que se resolvieron utilizando aprendizaje automático|Detección de Spam - algoritmo Naive Bayes<br>Sistema de recomendaciones de productos - algoritmo K vecinos más próximos   |7/10 |
+| Tarea 2: Problemas en Datos  |   |  1 - Eliminar espacios extras<br>2 - Corregir celdas vacias<br>3 - Convertir numeros guardados como cadenas a formato numerico<br>4 - Eliminar duplicados<br>5 - Cambiar mayúsculas/minúsculas<br>6 - Corregir ortografía<br>7 - Eliminar formato<br>8 - Identificar datos incompletos o incorrectos<br>9 - Estandarizar y enriquecer datos |  8/10 |
 |  Tarea 3: Árboles de decisión |   |   |   |
 
 
@@ -35,23 +34,6 @@ Calificación 7/10: La tarea era encontrar y describir los problemas, no solo ha
 
 Calificación 8/10: Faltó abundar en como se solucionan estos problemas y Falto agregar las referencias
 
-1 - Eliminar espacios extras
-
-2 - Corregir celdas vacias
-
-3 - Convertir numeros guardados como cadenas a formato numerico
-
-4 - Eliminar duplicados
-
-5 - Cambiar mayúsculas/minúsculas
-
-6 - Corregir ortografía
-
-7 - Eliminar formato
-
-8 - Identificar datos incompletos o incorrectos
-
-9 - Estandarizar y enriquecer datos
 
 
 ### Tarea 3: Árboles de decisión
