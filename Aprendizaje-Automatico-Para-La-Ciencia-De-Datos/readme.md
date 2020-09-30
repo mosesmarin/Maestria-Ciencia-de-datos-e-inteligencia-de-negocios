@@ -1,7 +1,7 @@
 
 # Aprendizaje Automático para la Ciencia de Datos
 
-
+### Clases
 
 | Video    |      Presentacion      |
 |----------|:-------------:|
