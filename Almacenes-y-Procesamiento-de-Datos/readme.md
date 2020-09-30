@@ -36,6 +36,7 @@
 [MD-05-ClaveValor.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-05-ClaveValor.pdf)
 [MD-06-Documentos.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-06-Documentos.pptx)
 [MD-07-Grafos.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-07-Grafos.pptx)
+
 [MD-08-Columnas.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-08-Columnas.pptx)
 
 ### Módulo 2 - Modelo Entidad-Relación
