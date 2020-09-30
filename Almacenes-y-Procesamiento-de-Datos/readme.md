@@ -46,3 +46,5 @@
 [MD-08-Columnas.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-08-Columnas.pptx)
 
 ### Módulo 2 - Modelo Entidad-Relación
+
+[S05: Modelo Entidad Relación (ER)](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S05-Modelo%20Entidad%20Relaci%C3%B3n%20(ER)-DAT506-S05-ModeoER.pdf)
