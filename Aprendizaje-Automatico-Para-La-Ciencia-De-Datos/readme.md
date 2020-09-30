@@ -11,3 +11,11 @@
 [Clase 4](https://www.youtube.com/watch?v=8pMkhZNQFzQ)
 
 [Clase 5](https://www.youtube.com/watch?v=Vx9ziXU3Ozs)
+
+| Video    |      Presentacion      |   |
+|----------|:-------------:|------:|
+| [Clase 1](https://www.youtube.com/watch?v=jZIRfrl6mDI) |  left-aligned |  |
+| [Clase 2](https://www.youtube.com/watch?v=VbjQReNBdSk) |    centered   |    |
+| [Clase 3](https://www.youtube.com/watch?v=uyV0i-6n9gY) | right-aligned |     |
+| [Clase 4](https://www.youtube.com/watch?v=8pMkhZNQFzQ) | right-aligned |     |
+| [Clase 5](https://www.youtube.com/watch?v=Vx9ziXU3Ozs) | right-aligned |     |
