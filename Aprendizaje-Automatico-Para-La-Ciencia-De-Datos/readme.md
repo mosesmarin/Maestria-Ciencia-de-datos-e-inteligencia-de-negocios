@@ -13,13 +13,12 @@
 
 
 ### Tareas
-|   |   |   |
-|---|---|---|
-|  Tarea 1: Ejemplos de problemas de Aprendizaje Automático
-Encontrar y describir dos problemas que se resolvieron utilizando aprendizaje automático
+|  Nombre | Descripción  |  Solución |  Calificación |
+|---|---|---|---|
+|  Tarea 1: Ejemplos de problemas de Aprendizaje Automático | Encontrar y describir dos problemas que se resolvieron utilizando aprendizaje automático
 |   |   |
-| Tarea 2: Problemas en Datos  |   |   |
-|  Tarea 3: Árboles de decisión |   |   |
+| Tarea 2: Problemas en Datos  |   |   |   |
+|  Tarea 3: Árboles de decisión |   |   |   |
 
 
 ### Tarea 1: Ejemplos de problemas de Aprendizaje Automático
