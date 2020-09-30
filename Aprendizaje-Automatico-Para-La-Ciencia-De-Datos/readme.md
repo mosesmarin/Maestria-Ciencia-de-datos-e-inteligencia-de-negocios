@@ -12,6 +12,15 @@
 | [Clase 5](https://www.youtube.com/watch?v=Vx9ziXU3Ozs) | [05-Decision Tree_numerical atributes.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/05-Decision%20Tree_numerical%20atributes.pdf)|
 
 
+### Tareas
+|   |   |   |
+|---|---|---|
+|  Tarea 1: Ejemplos de problemas de Aprendizaje Automático
+Encontrar y describir dos problemas que se resolvieron utilizando aprendizaje automático
+|   |   |
+| Tarea 2: Problemas en Datos  |   |   |
+|  Tarea 3: Árboles de decisión |   |   |
+
 
 ### Tarea 1: Ejemplos de problemas de Aprendizaje Automático
 
