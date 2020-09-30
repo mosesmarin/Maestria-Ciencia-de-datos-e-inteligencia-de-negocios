@@ -14,4 +14,4 @@
 [Clase 6](https://www.youtube.com/watch?v=we3FA5PdgNQ)
 
 
-
+[Guía de Aprendizaje](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/2020-08-ITI562-Gu%C3%ADaAprendizaje.pdf)
