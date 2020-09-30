@@ -3,7 +3,7 @@
 
 ### Clases
 
-| Video    |      Presentacion      |
+| Video    |      Presentación      |
 |----------|:-------------:|
 | [Clase 1](https://www.youtube.com/watch?v=jZIRfrl6mDI) |  [01-Introducion.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/01-Introducion.pdf) |
 | [Clase 2](https://www.youtube.com/watch?v=VbjQReNBdSk) |  [02-Supervised Learning.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/02-Supervised%20Learning.pdf)   |
