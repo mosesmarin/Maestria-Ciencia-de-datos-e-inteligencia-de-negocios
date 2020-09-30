@@ -12,3 +12,6 @@
 [Clase 5](https://www.youtube.com/watch?v=6LpoJ7Tajgc)
 
 [Clase 6](https://www.youtube.com/watch?v=AgeTKinH7Ng)
+
+[Clase 7](https://youtu.be/Tf-o5Gqvk_4)
+
