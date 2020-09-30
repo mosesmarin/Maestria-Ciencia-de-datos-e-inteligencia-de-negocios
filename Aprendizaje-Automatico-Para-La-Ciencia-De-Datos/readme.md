@@ -5,7 +5,7 @@
 
 | Video    |      Presentacion      |   |
 |----------|:-------------:|------:|
-| [Clase 1](https://www.youtube.com/watch?v=jZIRfrl6mDI) |  [01-Introducion.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/01-Introducion.pdf |  |
+| [Clase 1](https://www.youtube.com/watch?v=jZIRfrl6mDI) |  [01-Introducion.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/01-Introducion.pdf) |  |
 | [Clase 2](https://www.youtube.com/watch?v=VbjQReNBdSk) |  [02-Supervised Learning.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/02-Supervised%20Learning.pdf)   |    |
 | [Clase 3](https://www.youtube.com/watch?v=uyV0i-6n9gY) | [03-KNN.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/03-KNN.pdf)|     |
 | [Clase 4](https://www.youtube.com/watch?v=8pMkhZNQFzQ) | [04-Decision Trees ID3.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/04-Decision%20Trees%20ID3.pdf) |     |
