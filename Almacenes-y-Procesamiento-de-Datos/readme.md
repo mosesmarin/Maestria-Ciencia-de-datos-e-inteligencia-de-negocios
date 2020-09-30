@@ -29,6 +29,13 @@
 [S04: Modelo de Datos y Acta de Constitución del Proyecto](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S04-Modelo%20de%20Datos%20y%20Acta%20de%20Constituci%C3%B3n%20del%20Proyecto-DAT506-S04-ModelosDatos-ActaConst.pdf)
 
 ### Módulo 1 - Presentaciones de modelos de datos
-
+[MD-01-Jerárquico.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-01-Jer%C3%A1rquico.pptx)
+[MD-02-Red.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-02-Red.pptx)
+[MD-03-Relacional.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-03-Relacional.pptx)
+[MD-04-OrientadoObjetos.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-04-OrientadoObjetos.pdf)
+[MD-05-ClaveValor.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-05-ClaveValor.pdf)
+[MD-06-Documentos.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-06-Documentos.pptx)
+[MD-07-Grafos.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-07-Grafos.pptx)
+[MD-08-Columnas.pptx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-08-Columnas.pptx)
 
 ### Módulo 2 - Modelo Entidad-Relación
