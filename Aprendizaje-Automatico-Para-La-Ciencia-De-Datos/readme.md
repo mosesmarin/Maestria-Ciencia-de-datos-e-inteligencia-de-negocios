@@ -15,7 +15,8 @@
 ### Tareas
 |  Nombre | Descripción  |  Solución |  Calificación |
 |---|---|---|---|
-|  Tarea 1: Ejemplos de problemas de Aprendizaje Automático | Encontrar y describir dos problemas que se resolvieron utilizando aprendizaje automático|   |7/10 |
+|  Tarea 1: Ejemplos de problemas de Aprendizaje Automático | Encontrar y describir dos problemas que se resolvieron utilizando aprendizaje automático|Detección de Spam - algoritmo Naive Bayes
+Sistema de recomendaciones de productos - algoritmo K vecinos más próximos   |7/10 |
 | Tarea 2: Problemas en Datos  |   |   |  8/10 |
 |  Tarea 3: Árboles de decisión |   |   |   |
 
@@ -26,9 +27,7 @@ Encontrar y describir dos problemas que se resolvieron utilizando aprendizaje au
 
 Calificación 7/10: La tarea era encontrar y describir los problemas, no solo hacer mención
 
-Detección de Spam - algoritmo Naive Bayes
 
-Sistema de recomendaciones de productos - algoritmo K vecinos más próximos
 
 
 
