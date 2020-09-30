@@ -1,7 +1,7 @@
 
 # Inteligencia Analítica de Negocios
 
-Clase 1 https://www.youtube.com/watch?v=dWd0a6_eU58
+(Clase 1) [https://www.youtube.com/watch?v=dWd0a6_eU58]
 
 Clase 2 https://www.youtube.com/watch?v=UNQl73zSmPw
 
