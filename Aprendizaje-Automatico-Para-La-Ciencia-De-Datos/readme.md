@@ -51,3 +51,10 @@ Calificación 8/10: Faltó abundar en como se solucionan estos problemas y Falto
 ### Tarea 3: Árboles de decisión
 [DecisionTree.xlsx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/archivos/DecisionTree.xlsx)
 
+
+### Taller 1: K-NN
+[Taller 1_K_NN -Moises.xlsx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/archivos/Taller%201_K_NN%20-Moises.xlsx)
+
+
+### Taller 2: Arboles con atributos numéricos
+[20200923.xlsx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/archivos/20200923.xlsx)
