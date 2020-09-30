@@ -1,1 +1,1 @@
-# Maestria-CIencia-de-datos-e-inteligencia-de-negocios
+# Maestría en Ciencia de Datos e Inteligencia de Negocios
