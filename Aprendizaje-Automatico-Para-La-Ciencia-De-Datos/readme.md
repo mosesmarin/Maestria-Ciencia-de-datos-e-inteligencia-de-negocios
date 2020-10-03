@@ -10,6 +10,7 @@
 | [Clase 3](https://www.youtube.com/watch?v=uyV0i-6n9gY) | [03-KNN.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/03-KNN.pdf)|
 | [Clase 4](https://www.youtube.com/watch?v=8pMkhZNQFzQ) | [04-Decision Trees ID3.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/04-Decision%20Trees%20ID3.pdf) |
 | [Clase 5](https://www.youtube.com/watch?v=Vx9ziXU3Ozs) | [05-Decision Tree_numerical atributes.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/05-Decision%20Tree_numerical%20atributes.pdf)|
+| Clase 6 | |
 
 
 ### Tareas
@@ -24,6 +25,7 @@
 |---|:---:|---|:---:|---|
 |  Taller 1: K-NN | -  |  [Taller 1_K_NN -Moises.xlsx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/archivos/Taller%201_K_NN%20-Moises.xlsx) |     |   |
 |Taller 2: Arboles con atributos numéricos|- | [20200923.xlsx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/archivos/20200923.xlsx)| | |
+|Taller 3: Arboles de regresión | | | | |
 
 
 
