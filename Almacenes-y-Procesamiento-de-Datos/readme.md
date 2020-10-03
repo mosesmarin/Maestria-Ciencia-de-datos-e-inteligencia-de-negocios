@@ -8,8 +8,8 @@
 |[Clase 3](https://www.youtube.com/watch?v=VF5pVXM6ZuM)||
 |[Clase 4](https://www.youtube.com/watch?v=VRB65MjWRsg)||
 |[Clase 5](https://www.youtube.com/watch?v=EFnH5l6Z5GI)||
-|[Clase 6](https://www.youtube.com/watch?v=we3FA5PdgNQ)||
-|[Clase 7](https://youtu.be/qxjNHhyzuMY)||
+|[Clase 6](https://www.youtube.com/watch?v=we3FA5PdgNQ)|[S05: Modelo Entidad Relación (ER)](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S05-Modelo%20Entidad%20Relaci%C3%B3n%20(ER)-DAT506-S05-ModeoER.pdf)|
+|[Clase 7](https://youtu.be/qxjNHhyzuMY)|[S06: Estrategias para construir un modelo ER](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S06-EstrategiasModeloER.pdf)|
 
 
 [Guía de Aprendizaje](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/2020-08-ITI562-Gu%C3%ADaAprendizaje.pdf)
@@ -46,3 +46,5 @@
 ### Módulo 2 - Modelo Entidad-Relación
 
 [S05: Modelo Entidad Relación (ER)](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S05-Modelo%20Entidad%20Relaci%C3%B3n%20(ER)-DAT506-S05-ModeoER.pdf)
+
+[S06: Estrategias para construir un modelo ER](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S06-EstrategiasModeloER.pdf)
