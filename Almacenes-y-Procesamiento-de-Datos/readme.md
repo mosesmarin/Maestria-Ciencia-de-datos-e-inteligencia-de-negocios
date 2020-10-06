@@ -17,9 +17,9 @@
 
 
 ### Actividades del Curso
-|  Nombre | Descripción  |  Tarea Entregada |  Calificación |Comentarios|
+|  Nombre | Descripción  |  Solución Entregada |  Calificación |Comentarios|
 |:---|:---|---|:---:|---|
-|Actividad 1: Sistemas Manejadores de Bases de Datos|<strong>Nombre:</strong> Características principales de cinco SMBD (Sistemas manejadores de bases de datos)<br><strong>Tipo:</strong> Individual o en parejas<br><strong>Descripción:</strong> Elabora una revisión bibliográfica de las principales características de cinco SMBD comerciales y construye un glosario de los términos que no te sean familiares.<br><strong>Condiciones de satisfacción:</strong> Incluir diez características de cinco diferentes proveedores de SMBD, y definir mínimo cinco conceptos en el glosario.<br><strong>Fecha de entrega:</strong> El día martes 25 de agosto de 2020 en la hora de clase.<br><strong>Forma de entrega:</strong> Archivo anexo en BB.<br><strong>Cómo se evaluará:</strong> Es parte de la ponderación de las actividades de aprendizaje del curso.|---|98/100|Debes hacer las referencias dentro del texto de la bibliografía y no solo aparecer al final.|
+|Actividad 1: Sistemas Manejadores de Bases de Datos|<strong>Nombre:</strong> Características principales de cinco SMBD (Sistemas manejadores de bases de datos)<br><strong>Tipo:</strong> Individual o en parejas<br><strong>Descripción:</strong> Elabora una revisión bibliográfica de las principales características de cinco SMBD comerciales y construye un glosario de los términos que no te sean familiares.<br><strong>Condiciones de satisfacción:</strong> Incluir diez características de cinco diferentes proveedores de SMBD, y definir mínimo cinco conceptos en el glosario.<br><strong>Fecha de entrega:</strong> El día martes 25 de agosto de 2020 en la hora de clase.<br><strong>Forma de entrega:</strong> Archivo anexo en BB.<br><strong>Cómo se evaluará:</strong> Es parte de la ponderación de las actividades de aprendizaje del curso.|[Actividad-1](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MOISES-MARIN-ACTIVIDAD-1.pdf)|98/100|Debes hacer las referencias dentro del texto de la bibliografía y no solo aparecer al final.|
 |---|:---:|---|:---:|---|
 |---|:---:|---|:---:|---|
 |---|:---:|---|:---:|---|
