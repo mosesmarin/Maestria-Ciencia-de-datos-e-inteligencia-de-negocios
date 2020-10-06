@@ -27,4 +27,8 @@
 |---|:---:|---|:---:|---|
 
 
-
+### Proyecto Final
+|  Nombre | Descripción  |  Solución Entregada |  Calificación |Comentarios|
+|:---|:---|---|:---:|---|
+|Reto 1: Planeación de tareas del equipo|||95/100|En la Planeación deben actualizar los integrantes con sus nombres y roles.<br>Las horas acumuladas son de todo el proyecto, tanto en la planificación como en las horas reales.<br>El real del reto 1 no tiene fecha de elaboración.<br>El "Seguimiento de riesgos y problemas" y "Otros elementos importantes" es sobre que viven en su proyecto y como equipo.|
+||||||
