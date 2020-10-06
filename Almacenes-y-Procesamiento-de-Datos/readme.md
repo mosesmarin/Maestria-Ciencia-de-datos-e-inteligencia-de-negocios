@@ -3,9 +3,11 @@
 
 | Video    |      Presentación      |
 |----------|:-------------:|
-|[Clase 1](https://www.youtube.com/watch?v=eKxjSlzXrn8)||
-|[Clase 2](https://www.youtube.com/watch?v=0ZRN4z5R5UI)||
-|[Clase 3](https://www.youtube.com/watch?v=VF5pVXM6ZuM)||
+|[Clase 1](https://www.youtube.com/watch?v=eKxjSlzXrn8)|[S01: Lineamientos y Sistema de Bases de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S01-Lineamientos%20y%20Sistema%20de%20Bases%20de%20Datos-DAT506-S01-Introducci%C3%B3nConceptosBasicos.pdf)|
+|[Clase 2](https://www.youtube.com/watch?v=0ZRN4z5R5UI)|[S02: Reto 1 - Procesos de Entrada y Salida de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S02-Reto%201%20-%20Procesos%20de%20Entrada%20y%20Salida%20de%20Datos-DAT506-S02-EntradaSalida.pdf)|
+|[Clase 3](https://www.youtube.com/watch?v=VF5pVXM6ZuM)|[S03: Arquitectura, Independencia y Redundancia](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S03-Arquitectura%2C%20Independencia%20y%20Redundancia-DAT506-S03-Arq-Ind-Red-Integridad.pdf)
+<br>
+[S03: Solución de Métodos de Acceso](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S03-Soluci%C3%B3n%20de%20M%C3%A9todos%20de%20Acceso-2020-09-02-SolM%C3%A9todosAcceso.xlsx)|
 |[Clase 4](https://www.youtube.com/watch?v=VRB65MjWRsg)||
 |[Clase 5](https://www.youtube.com/watch?v=EFnH5l6Z5GI)||
 |[Clase 6](https://www.youtube.com/watch?v=we3FA5PdgNQ)|[S05: Modelo Entidad Relación (ER)](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S05-Modelo%20Entidad%20Relaci%C3%B3n%20(ER)-DAT506-S05-ModeoER.pdf)|
