@@ -17,8 +17,8 @@
 
 ### Actividades del Curso
 |  Nombre | Descripción  |  Tarea Entregada |  Calificación |Comentarios|
-|---|:---:|---|:---:|---|
-|Actividad 1: Sistemas Manejadores de Bases de Datos|Nombre: Características principales de cinco SMBD (Sistemas manejadores de bases de datos)<br>Tipo: Individual o en parejas<br>Descripción: Elabora una revisión bibliográfica de las principales características de cinco SMBD comerciales y construye un glosario de los términos que no te sean familiares.<br>Condiciones de satisfacción: Incluir diez características de cinco diferentes proveedores de SMBD, y definir mínimo cinco conceptos en el glosario.<br>Fecha de entrega: El día martes 25 de agosto de 2020 en la hora de clase.<br>Forma de entrega: Archivo anexo en BB.<br>Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaje del curso.|---|:---:|---|
+|:---|:---|---|:---:|---|
+|Actividad 1: Sistemas Manejadores de Bases de Datos|<strong>Nombre:</strong> Características principales de cinco SMBD (Sistemas manejadores de bases de datos)<br>Tipo: Individual o en parejas<br>Descripción: Elabora una revisión bibliográfica de las principales características de cinco SMBD comerciales y construye un glosario de los términos que no te sean familiares.<br>Condiciones de satisfacción: Incluir diez características de cinco diferentes proveedores de SMBD, y definir mínimo cinco conceptos en el glosario.<br>Fecha de entrega: El día martes 25 de agosto de 2020 en la hora de clase.<br>Forma de entrega: Archivo anexo en BB.<br>Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaje del curso.|---|:---:|---|
 |---|:---:|---|:---:|---|
 |---|:---:|---|:---:|---|
 |---|:---:|---|:---:|---|
