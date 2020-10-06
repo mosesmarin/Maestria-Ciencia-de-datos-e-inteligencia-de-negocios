@@ -59,4 +59,5 @@
   <tr>
     <td colspan="2"><strong>Módulo 1 - Conceptos básicos de bases de datos</strong></td>
   </tr>
+  | Video    |      Presentación      |
 </table>
