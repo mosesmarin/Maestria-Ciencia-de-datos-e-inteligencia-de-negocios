@@ -53,10 +53,10 @@
 
 <table>
   <tr>
-    <td>One</td>
-    <td>Two</td>
+    <td>Video</td>
+    <td>Presentación</td>
   </tr>
   <tr>
-    <td colspan="2">Three</td>
+    <td colspan="2"><strong>Módulo 1 - Conceptos básicos de bases de datos</strong></td>
   </tr>
 </table>
