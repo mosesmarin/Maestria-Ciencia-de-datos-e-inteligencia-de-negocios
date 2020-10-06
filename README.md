@@ -14,5 +14,8 @@ Presentaciones, tareas, actividades, clases de la Maestría en CIencia de Datos 
 Ligas Utiles:
 
 [Convertir texto con formato a html](http://www.unit-conversion.info/texttools/text-to-html/)
+
 [Reemplazar texto](http://www.unit-conversion.info/texttools/replace-text/)
+
 [Convertir word a pdf](https://www.ilovepdf.com/word_to_pdf)
+
