@@ -17,7 +17,7 @@
 |[Clase 7](https://youtu.be/qxjNHhyzuMY)|[S06: Estrategias para construir un modelo ER](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S06-EstrategiasModeloER.pdf)| Módulo 2 - Modelo Entidad-Relación|
 
 
-
+<br><br>
 ### Actividades del Curso
 |  Nombre | Descripción  |  Solución Entregada |  Calificación |Comentarios|
 |:---|:---|---|:---:|---|
@@ -28,6 +28,7 @@
 |---|:---:|---|:---:|---|
 |---|:---:|---|:---:|---|
 
+<br><br>
 
 ### Proyecto Final
 |  Nombre | Descripción  |  Solución Entregada |  Calificación |Comentarios|
