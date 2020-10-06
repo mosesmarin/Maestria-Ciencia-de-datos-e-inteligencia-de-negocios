@@ -58,6 +58,9 @@
   </tr>
   <tr>
     <td colspan="2"><strong>Módulo 1 - Conceptos básicos de bases de datos</strong></td>
+    
+   <tr>[Clase 1](https://www.youtube.com/watch?v=eKxjSlzXrn8)|[S01: Lineamientos y Sistema de Bases de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S01-Lineamientos%20y%20Sistema%20de%20Bases%20de%20Datos-DAT506-S01-Introducci%C3%B3nConceptosBasicos.pdf) </tr>  
+    
+    
   </tr>
-  | Video    |      Presentación      |
 </table>
