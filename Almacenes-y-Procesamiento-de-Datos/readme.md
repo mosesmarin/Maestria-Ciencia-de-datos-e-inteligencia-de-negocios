@@ -15,15 +15,15 @@
 |[Clase 5](https://www.youtube.com/watch?v=EFnH5l6Z5GI)|[MD-01-Jerárquico.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-01-Jer%C3%A1rquico.pdf)<br>[MD-02-Red.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-02-Red.pdf)<br>[MD-03-Relacional.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-03-Relacional.pdf)<br>[MD-04-OrientadoObjetos.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-04-OrientadoObjetos.pdf)<br>[MD-05-ClaveValor.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-05-ClaveValor.pdf)<br>[MD-06-Documentos.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-06-Documentos.pdf)<br>[MD-07-Grafos.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-07-Grafos.pdf)<br>[MD-08-Columnas.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-08-Columnas.pdf)|Módulo 1 - Presentaciones de modelos de datos|15-Sep-2020|
 |[Clase 6](https://www.youtube.com/watch?v=we3FA5PdgNQ)|[S05: Modelo Entidad Relación (ER)](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S05-Modelo%20Entidad%20Relaci%C3%B3n%20(ER)-DAT506-S05-ModeoER.pdf)| Módulo 2 - Modelo Entidad-Relación|22-Sep-2020|
 |[Clase 7](https://youtu.be/qxjNHhyzuMY)|[S06: Estrategias para construir un modelo ER](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S06-EstrategiasModeloER.pdf)| Módulo 2 - Modelo Entidad-Relación|29-Sep-2020|
-|[Clase 8](https://youtu.be/qxjNHhyzuMY)|||6-Oct-2020|
-|[Clase 9](https://youtu.be/qxjNHhyzuMY)|||13-Oct-2020|
-|[Clase 10](https://youtu.be/qxjNHhyzuMY)|||20-Oct -2020|
-|[Clase 11](https://youtu.be/qxjNHhyzuMY)|||27-Oct-2020|
-|[Clase 12](https://youtu.be/qxjNHhyzuMY)|||3-Nov-2020|
-|[Clase 13](https://youtu.be/qxjNHhyzuMY)|||10-Nov-2020|
-|[Clase 14](https://youtu.be/qxjNHhyzuMY)|||17-Nov-2020|
-|[Clase 15](https://youtu.be/qxjNHhyzuMY)|||24-Nov-2020|
-|[Clase 16](https://youtu.be/qxjNHhyzuMY)|||1-Dic-2020|
+|[Clase 8](https://youtu.be/bYK7JFIDTlM)|||6-Oct-2020|
+|[Clase 9](https://youtu.be/)|||13-Oct-2020|
+|[Clase 10](https://youtu.be/)|||20-Oct -2020|
+|[Clase 11](https://youtu.be/)|||27-Oct-2020|
+|[Clase 12](https://youtu.be/)|||3-Nov-2020|
+|[Clase 13](https://youtu.be/)|||10-Nov-2020|
+|[Clase 14](https://youtu.be/)|||17-Nov-2020|
+|[Clase 15](https://youtu.be/)|||24-Nov-2020|
+|[Clase 16](https://youtu.be/)|||1-Dic-2020|
 
 <br><br>
 ### Actividades del Curso
