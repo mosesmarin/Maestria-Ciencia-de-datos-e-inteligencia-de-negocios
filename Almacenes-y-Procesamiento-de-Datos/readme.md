@@ -6,9 +6,9 @@
 
 ### Clases
 
-| Video    |      Presentación      |Módulo|
-|----------|:-------------|:----------|
-|[Clase 1](https://www.youtube.com/watch?v=eKxjSlzXrn8)|[S01: Lineamientos y Sistema de Bases de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S01-Lineamientos%20y%20Sistema%20de%20Bases%20de%20Datos-DAT506-S01-Introducci%C3%B3nConceptosBasicos.pdf)| Módulo 1 - Conceptos básicos de bases de datos|
+| Video    |      Presentación      |Módulo|Fecha|
+|----------|:-------------|:----------|:-----:|
+|[Clase 1](https://www.youtube.com/watch?v=eKxjSlzXrn8)|[S01: Lineamientos y Sistema de Bases de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S01-Lineamientos%20y%20Sistema%20de%20Bases%20de%20Datos-DAT506-S01-Introducci%C3%B3nConceptosBasicos.pdf)| Módulo 1 - Conceptos básicos de bases de datos|18-Ago|
 |[Clase 2](https://www.youtube.com/watch?v=0ZRN4z5R5UI)|[S02: Reto 1 - Procesos de Entrada y Salida de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S02-Reto%201%20-%20Procesos%20de%20Entrada%20y%20Salida%20de%20Datos-DAT506-S02-EntradaSalida.pdf)|Módulo 1 - Conceptos básicos de bases de datos|
 |[Clase 3](https://www.youtube.com/watch?v=VF5pVXM6ZuM)|[S03: Arquitectura, Independencia y Redundancia](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S03-Arquitectura%2C%20Independencia%20y%20Redundancia-DAT506-S03-Arq-Ind-Red-Integridad.pdf)<br>[S03: Solución de Métodos de Acceso](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S03-Soluci%C3%B3n%20de%20M%C3%A9todos%20de%20Acceso-2020-09-02-SolM%C3%A9todosAcceso.xlsx)|Módulo 1 - Conceptos básicos de bases de datos|
 |[Clase 4](https://www.youtube.com/watch?v=VRB65MjWRsg)|[MD-04-OrientadoObjetos.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/MD-04-OrientadoObjetos.pdf)|Módulo 1 - Conceptos básicos de bases de datos|
