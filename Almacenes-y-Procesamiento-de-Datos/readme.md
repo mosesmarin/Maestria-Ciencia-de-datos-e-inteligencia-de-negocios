@@ -1,7 +1,7 @@
 
 # Almacenes y Procesamiento de Datos
 
-[Guía de Aprendizaje](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/2020-08-ITI562-Gu%C3%ADaAprendizaje.pdf)
+[Guía de Aprendizaje](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/2020-08-ITI562-Gu%C3%ADaAprendizaje.pdf)
 
 
 ### Clases
