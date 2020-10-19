@@ -11,8 +11,8 @@
 | [Clase 4](https://www.youtube.com/watch?v=8pMkhZNQFzQ) | [04-Decision Trees ID3.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/04-Decision%20Trees%20ID3.pdf) |9-Sep-2020|
 | [Clase 5](https://www.youtube.com/watch?v=Vx9ziXU3Ozs) | [05-Decision Tree_numerical atributes.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Aprendizaje-Automatico-Para-La-Ciencia-De-Datos/presentaciones/05-Decision%20Tree_numerical%20atributes.pdf)|23-Sep-2020|
 | [Clase 6](https://youtu.be/Ru7BUbx9U64) | |30-Sep-2020|
-| Clase 7 | |7-Oct-2020|
-| Clase 8 | |14-Oct-2020|
+| [Clase 7](https://youtu.be/salXMlhu_qo) | |7-Oct-2020|
+| [Clase 8](https://youtu.be/Q1b-MVimxRY) | |14-Oct-2020|
 | Clase 9 | |21-Oct-2020|
 | Clase 10 | |28-Oct-2020|
 | Clase 11 | |4-Nov-2020|
