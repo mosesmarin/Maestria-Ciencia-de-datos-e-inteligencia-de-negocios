@@ -16,7 +16,7 @@
 |[Clase 6](https://www.youtube.com/watch?v=we3FA5PdgNQ)|[S05: Modelo Entidad Relación (ER)](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/archivos/S05-Modelo%20Entidad%20Relaci%C3%B3n%20(ER)-DAT506-S05-ModeoER.pdf)| Módulo 2 - Modelo Entidad-Relación|22-Sep-2020|
 |[Clase 7](https://youtu.be/qxjNHhyzuMY)|[S06: Estrategias para construir un modelo ER](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S06-EstrategiasModeloER.pdf)| Módulo 2 - Modelo Entidad-Relación|29-Sep-2020|
 |[Clase 8](https://youtu.be/bYK7JFIDTlM)|||6-Oct-2020|
-|[Clase 9](https://youtu.be/)|||13-Oct-2020|
+|[Clase 9](https://youtu.be/XMxir-UTys8)|||13-Oct-2020|
 |[Clase 10](https://youtu.be/)|||20-Oct -2020|
 |[Clase 11](https://youtu.be/)|||27-Oct-2020|
 |[Clase 12](https://youtu.be/)|||3-Nov-2020|
