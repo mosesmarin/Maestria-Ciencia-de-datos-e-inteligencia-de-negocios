@@ -18,7 +18,7 @@
 |[Clase 8](https://youtu.be/bYK7JFIDTlM)|[DAT506-S07-VistasModeloER.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S07-VistasModeloER.pdf)|Módulo 2 - Modelo Entidad-Relación|6-Oct-2020|
 |[Clase 9](https://youtu.be/XMxir-UTys8)|[DAT506-S08-NormalizaciónPresentaciones.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S08-Normalizaci%C3%B3nPresentaciones.pdf)|Módulo 2 - Modelo Entidad-Relación|13-Oct-2020|
 |[Clase 10](https://youtu.be/uhhvd0LwRdY)|[DAT506-S09-CorrespondenciaER-Relacional.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S09-CorrespondenciaER-Relacional.pdf)|Módulo 2 - Modelo Entidad-Relación|20-Oct -2020|
-|[Clase 11](https://youtu.be/)|||27-Oct-2020|
+|[Clase 11](https://youtu.be/)|[DAT506-S10-SQL.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S10-SQL.pdf)|M3 –SQL (Structured Query Language)|27-Oct-2020|
 |[Clase 12](https://youtu.be/)|||3-Nov-2020|
 |[Clase 13](https://youtu.be/)|||10-Nov-2020|
 |[Clase 14](https://youtu.be/)|||17-Nov-2020|
