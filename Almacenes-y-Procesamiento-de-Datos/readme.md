@@ -20,8 +20,8 @@
 |[Clase 10](https://youtu.be/uhhvd0LwRdY)|[DAT506-S09-CorrespondenciaER-Relacional.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S09-CorrespondenciaER-Relacional.pdf)|Módulo 2 - Modelo Entidad-Relación|20-Oct -2020|
 |[Clase 11](https://youtu.be/kyP16QBpbhE)|[DAT506-S10-SQL.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Almacenes-y-Procesamiento-de-Datos/presentaciones/DAT506-S10-SQL.pdf)|Módulo 3 – SQL|27-Oct-2020|
 |[Clase 12](https://youtu.be/UJT2CAVYsYU)|||3-Nov-2020|
-|[Clase 13](https://youtu.be/)|||10-Nov-2020|
-|[Clase 14](https://youtu.be/)|||17-Nov-2020|
+|[Clase 13](https://youtu.be/xa436vW6LAc)|||10-Nov-2020|
+|[Clase 14](https://youtu.be/SUJzIsT5-t4)|||17-Nov-2020|
 |[Clase 15](https://youtu.be/)|||24-Nov-2020|
 |[Clase 16](https://youtu.be/)|||1-Dic-2020|
 
