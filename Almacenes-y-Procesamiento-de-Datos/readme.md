@@ -23,7 +23,7 @@
 |[Clase 13](https://youtu.be/xa436vW6LAc)|||10-Nov-2020|
 |[Clase 14](https://youtu.be/SUJzIsT5-t4)|||17-Nov-2020|
 |[Clase 15](https://youtu.be/)|||24-Nov-2020|
-|[Clase 16](https://youtu.be/)|||1-Dic-2020|
+|[Clase 16](https://youtu.be/yA6vkkBHAw4)|||1-Dic-2020|
 
 <br><br>
 ### Actividades del Curso
