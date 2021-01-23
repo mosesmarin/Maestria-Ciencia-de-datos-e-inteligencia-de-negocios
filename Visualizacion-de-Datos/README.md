@@ -19,3 +19,8 @@ Hola, te saludo con gusto para compartir contigo las indicaciones de la activida
 Leer el archivo adjunto [antecedentes.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/antecedentes_compressed.pdf)
 Realizar una diagrama (el que se adecue al contenido)
 [Tarea entregada](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/Moises-Marin-AC2.pdf)
+
+
+## Ligas Interesantes
+
+https://visme.co/blog/best-data-visualizations/
