@@ -10,8 +10,11 @@ Presentaciones, tareas, actividades, clases de la Maestría en CIencia de Datos 
 [Inteligencia Analitica de Negocios](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
 
 [Visualización de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
+
 [Fundamentos de Ciencia de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
+
 [Estadística Descriptiva e Inferencial](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
+
 [Fundamentos de Inteligencia de Negocios](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
 
 
