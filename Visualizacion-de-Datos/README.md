@@ -9,3 +9,11 @@
 
 [Unidad 2. Diferentes tipos de visualizaciones de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/presentaciones/DAT504-Unidad%202%20Primavera%202021.pdf)
 
+## Actividades
+
+AC1
+
+AC2
+Hola, te saludo con gusto para compartir contigo las indicaciones de la actividad que consisten en lo siguiente:
+Leer el archivo adjunto (antecedentes.pdf)
+Realizar una diagrama (el que se adecue al contenido)
