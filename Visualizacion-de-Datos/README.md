@@ -6,5 +6,6 @@
 
 ## Presentaciones
 [Unidad 1. Introducción a la visualización de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/presentaciones/DAT504-Unidad%201%20Primavera%202021.pdf)
+
 [Unidad 2. Diferentes tipos de visualizaciones de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/presentaciones/DAT504-Unidad%202%20Primavera%202021.pdf)
 
