@@ -6,7 +6,7 @@
 [Clase 1 - 18-Ene-21](https://youtu.be/pe_jBqiaWT4)
 
 ## Presentaciones
-[Unidad 1. Introducción a la visualización de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/presentaciones/DAT504-Unidad%201%20Primavera%202021.pdf)
+[Sesión 1. Plan del Curso y gestión de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/presentaciones/DAT501-S01-Introduccio%CC%81nGestio%CC%81nDatos.pdf)
 
-[Unidad 2. Diferentes tipos de visualizaciones de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/presentaciones/DAT504-Unidad%202%20Primavera%202021.pdf)
+
 
