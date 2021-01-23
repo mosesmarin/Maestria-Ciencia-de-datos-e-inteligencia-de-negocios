@@ -1,6 +1,6 @@
 
 # Estadística Descriptiva e Inferencial
-[Guía de Aprendizaje](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/presentaciones/DAT504-VISUALIZACIO%CC%81N%20DE%20DATOS-GUIA%20DE%20APRENDIZAJE.pdf)
+[Guía de Aprendizaje](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/GA_MAT550-D_02.pdf)
 
 ## Clases
 [Clase 1 - 20-Ene-21](https://youtu.be/EUn2lUfmDRI)
