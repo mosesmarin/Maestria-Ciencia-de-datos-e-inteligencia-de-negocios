@@ -15,13 +15,13 @@ Presentaciones, tareas, actividades, clases de la Maestría en CIencia de Datos 
 2do Cuatrimestre
 --
 
-[Visualización de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
+[Visualización de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Visualizacion-de-Datos)
 
-[Fundamentos de Ciencia de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
+[Fundamentos de Ciencia de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Fundamentos-de-Ciencia-de-Datos)
 
-[Estadística Descriptiva e Inferencial](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
+[Estadística Descriptiva e Inferencial](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Estadistica-Descriptiva-e-Inferencial)
 
-[Fundamentos de Inteligencia de Negocios](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
+[Fundamentos de Inteligencia de Negocios](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Fundamentos-de-Inteligencia-de-Negocios)
 
 
 ---
