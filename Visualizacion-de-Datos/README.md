@@ -12,8 +12,10 @@
 ## Actividades
 
 AC1
+Hola, te saludo con gusto para compartir las indicaciones de la actividad que consiste en lo siguiente: Crea un avatar lo más parecido a ti ( https://www.creartuavatar.com/ ) Descarga el avatar como imagen Inserta el avatar en un documento, ..
 
 AC2
 Hola, te saludo con gusto para compartir contigo las indicaciones de la actividad que consisten en lo siguiente:
-Leer el archivo adjunto (antecedentes.pdf)
+Leer el archivo adjunto [antecedentes.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/antecedentes_compressed.pdf)
 Realizar una diagrama (el que se adecue al contenido)
+[Tarea entregada](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/Moises-Marin-AC2.pdf)
