@@ -1,8 +1,7 @@
 
 # Fundamentos de Inteligencia de Negocios
-[Guía de Aprendizaje](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/GA_MAT550-D_02.pdf)
+[Guía de Aprendizaje](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Inteligencia-de-Negocios/presentaciones/DAT510-FUNDAMENTOS%20DE%20IN-GUIA%20DE%20APRENDIZAJE.pdf)
 
-[Presentación del curso](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/MAT550-D_02%20Presentacio%CC%81n%20del%20curso.pdf)
 
 ## Clases
 [Clase 1 - 21-Ene-21](https://youtu.be/iUd9lsDdH8M)
