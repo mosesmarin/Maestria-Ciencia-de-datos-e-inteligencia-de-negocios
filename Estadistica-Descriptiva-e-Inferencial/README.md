@@ -17,6 +17,14 @@
 ## Actividades
 
 
+## Utilerías
+
+Una mirada a la estadística
+[El análisis estadístico en la planeación de Tequila Sauza](https://youtu.be/noF1hZUEoC0)
+[La gestión del riesgo en la banca de desarrollo](https://youtu.be/-baoDcDm9bY)
+[El valor del pronóstico estadístico de venta](https://youtu.be/yA8QGifHHTo)
+[Políticas de salud pública basadas en estadística](https://youtu.be/AuKlhgxjnaY)
+[Procesamiento de imágenes con técnicas estadísticas](https://youtu.be/6WOZIxuoKAM)
 
 
 ## Ligas Interesantes
