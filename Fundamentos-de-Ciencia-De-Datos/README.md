@@ -32,3 +32,8 @@ Condiciones de satisfacción: Claridad en la definición de cada característica
 Fecha de entrega: El día martes 02 de febrero de 2021 en la hora de clase.
 Forma de entrega: Archivo anexo en BB.
 Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaje del curso.
+
+
+## Reportes de Aprendizaje
+
+
