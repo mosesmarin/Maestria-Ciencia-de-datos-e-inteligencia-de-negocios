@@ -10,6 +10,8 @@
 ## Presentaciones
 [Sesión 1. Plan del Curso y gestión de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/presentaciones/DAT501-S01-Introduccio%CC%81nGestio%CC%81nDatos.pdf)
 
+[Sesión 2. Conceptos de Big Data](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/presentaciones/DAT501-S02-FundamentosBigDataCS01.pdf)
+
 ## Actividades
 
 AC1 Actividad 1.
