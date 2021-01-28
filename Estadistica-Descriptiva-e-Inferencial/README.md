@@ -12,6 +12,8 @@
 ## Presentaciones
 [Módulo 1. Introducción y conceptos básicos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%201.%20Introduccio%CC%81n%20(conceptos%20ba%CC%81sicos).pdf)
 
+[Módulo 1. Introducción (tablas de distribución de frecuencias e histogramas)](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%201.%20Introduccio%CC%81n%20(tablas%20de%20distribucio%CC%81n%20de%20frecuencias%20e%20histogramas).pptx.pdf)
+
 ## Actividades
 
 
