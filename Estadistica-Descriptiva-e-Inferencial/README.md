@@ -16,9 +16,9 @@
 
 ## Actividades
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 1. Conceptos básicos de estadística
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 1. Conceptos básicos de estadística [word](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.docx) [pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 2. Tablas y gráficas para datos cuantitativos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 2. Tablas y gráficas para datos cuantitativos [word](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%202.%20Tablas%20y%20gr%C3%A1ficas%20para%20datos%20cuantitativos.docx) [pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%202.%20Tablas%20y%20gr%C3%A1ficas%20para%20datos%20cuantitativos.pdf)
 
 
 
