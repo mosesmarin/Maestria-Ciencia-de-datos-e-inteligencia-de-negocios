@@ -23,7 +23,7 @@
 
 ## Utilerías
 
-Una mirada a la estadística
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una mirada a la estadística
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[El análisis estadístico en la planeación de Tequila Sauza](https://youtu.be/noF1hZUEoC0)
 
