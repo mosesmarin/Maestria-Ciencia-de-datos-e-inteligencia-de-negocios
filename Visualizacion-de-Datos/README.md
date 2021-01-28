@@ -20,7 +20,7 @@ AC2
 Hola, te saludo con gusto para compartir contigo las indicaciones de la actividad que consisten en lo siguiente:
 Leer el archivo adjunto [antecedentes.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/antecedentes_compressed.pdf)
 Realizar una diagrama (el que se adecue al contenido)
-[Tarea entregada](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/Moises-Marin-AC2.pdf)
+[[Tarea entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/Moises-Marin-AC2.pdf)
 
 AC3
 Hola, te saludo con gusto para compartir contigo las indicaciones de la actividad que consisten en lo siguiente:
@@ -36,8 +36,8 @@ Publica en Blackboard un documento de word que contenga: Nombre de la evidencia,
 La extensión del documento no debe ser mayor a dos páginas.
 Nombra el documento con el nombre de los integrantes del equipo siguiendo la estructura solicitada. Ejemplo: AntonioStark-NatashaRomanoff-BruceBanner-AC3.pdf
 Nota: Durante la clase habrá una revisión de avances al azar, por lo que debes estar listo para mostrarlo a las 21:00 hrs.
-[Línea de tiempo creada](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ZCQRaIT_B_fWwYsOhkAYBO7rOkDZ3F5S_6Pu-E16e6s&font=Default&lang=en&initial_zoom=2&height=650%27)
-[pagina en google site](https://sites.google.com/upaep.edu.mx/datamaticos-ac3/inicio)
+[[Línea de tiempo creada]](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ZCQRaIT_B_fWwYsOhkAYBO7rOkDZ3F5S_6Pu-E16e6s&font=Default&lang=en&initial_zoom=2&height=650%27)
+[[pagina en google site]](https://sites.google.com/upaep.edu.mx/datamaticos-ac3/inicio)
 
 AP1-Avance de proyecto 1
 EN PAREJAS
