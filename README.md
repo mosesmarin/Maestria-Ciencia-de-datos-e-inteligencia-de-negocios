@@ -1,7 +1,7 @@
 # Maestría en Ciencia de Datos e Inteligencia de Negocios
 
 
-Presentaciones, tareas, actividades, clases de la Maestría en CIencia de Datos e Inteligencia de Negocios en la UPAEP (Puebla/MEXICO).
+Presentaciones, tareas, actividades, clases de la Maestría en Ciencia de Datos e Inteligencia de Negocios en la UPAEP (Puebla/MEXICO).
 
 1er Cuatrimestre
 -- 
