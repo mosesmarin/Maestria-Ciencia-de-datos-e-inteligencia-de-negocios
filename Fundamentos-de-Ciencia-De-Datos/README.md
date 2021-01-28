@@ -36,4 +36,12 @@ Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaj
 
 ## Reportes de Aprendizaje
 
+ClickStream 01: Instalación de una base de datos relacional
+Nombre: ClickStream01: Instalación de MySQL y componente de Excel
+Tipo: Individual
+Descripción: Utilizando como base el documento PDF del ClickStream01, realiza la instalación de MySQL y de un componente de Excel. Construye un documento parecido con los pasos que seguiste para realizar la instalación.
+Condiciones de satisfacción: Cumplir con los lineamientos de los ClickStream definidos en el Plan del Curso. Mostrar detalladamente el proceso de instalación y asegurar que tengas acceso a las herramientas.
+Fecha de entrega: El día martes 02 de febrero de 2021 en la hora de clase.
+Forma de entrega: Archivo anexo en BB.
+Cómo se evaluará: Es parte de la ponderación de los reportes de aprendizaje.
 
