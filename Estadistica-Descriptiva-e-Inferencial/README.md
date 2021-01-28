@@ -18,7 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 1. Conceptos básicos de estadística
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 1. Conceptos básicos de estadística
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 2. Tablas y gráficas para datos cuantitativos
+
 
 
 ## Utilerías
