@@ -3,7 +3,7 @@
 
 Presentaciones, tareas, actividades, clases de la Maestría en Ciencia de Datos e Inteligencia de Negocios en la UPAEP (Puebla/MEXICO).
 
-1er Cuatrimestre
+1er Cuatrimestre (Septiembre 2020 - Diciembre 2020)
 -- 
 
 [Almacenes y Procesamiento de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Almacenes-y-Procesamiento-de-Datos)
@@ -12,7 +12,7 @@ Presentaciones, tareas, actividades, clases de la Maestría en Ciencia de Datos 
 
 [Inteligencia Analitica de Negocios](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Inteligencia-Analitica-de-Negocios)
 
-2do Cuatrimestre
+2do Cuatrimestre (Enero 2021 - Abril 2021)
 --
 
 [Visualización de Datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/tree/master/Visualizacion-de-Datos)
