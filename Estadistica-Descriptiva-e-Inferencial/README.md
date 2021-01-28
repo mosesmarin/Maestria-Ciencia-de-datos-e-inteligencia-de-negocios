@@ -25,15 +25,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una mirada a la estadística
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[El análisis estadístico en la planeación de Tequila Sauza](https://youtu.be/noF1hZUEoC0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[El análisis estadístico en la planeación de Tequila Sauza](https://youtu.be/noF1hZUEoC0)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[La gestión del riesgo en la banca de desarrollo](https://youtu.be/-baoDcDm9bY)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[La gestión del riesgo en la banca de desarrollo](https://youtu.be/-baoDcDm9bY)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[El valor del pronóstico estadístico de venta](https://youtu.be/yA8QGifHHTo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[El valor del pronóstico estadístico de venta](https://youtu.be/yA8QGifHHTo)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Políticas de salud pública basadas en estadística](https://youtu.be/AuKlhgxjnaY)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Políticas de salud pública basadas en estadística](https://youtu.be/AuKlhgxjnaY)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Procesamiento de imágenes con técnicas estadísticas](https://youtu.be/6WOZIxuoKAM)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Procesamiento de imágenes con técnicas estadísticas](https://youtu.be/6WOZIxuoKAM)
 
 
 ## Ligas Interesantes
