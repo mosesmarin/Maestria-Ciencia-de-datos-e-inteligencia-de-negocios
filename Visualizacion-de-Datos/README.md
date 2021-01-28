@@ -60,7 +60,7 @@ Nota:
 Puedes empezar haciendo en un word o bien directamente en el e-book, como tu prefieras.
 Si cursas también fundamentos de inteligencia de negocios, busca empatar el contenido de ambos proyectos para entregar uno solo, en este caso sería el e-book.
 Si el proyecto será implementado en una empresa debes presentar autorización del mismo para uso de datos. El formato que puedes utilizar como guía es
-[carta de aceptación.docx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/carta%20de%20aceptaci%C3%B3n.docx)
+[carta de aceptación.docx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/carta%20de%20aceptaci%C3%B3n.pdf)
 Si tienes alguna duda después de la explicación te pido contactarme por los medios indicados
 Algunas herramientas para hacer e-books. No importa que aparezca con marca de agua el logo de la herramienta
 https://www.flipsnack.com/
