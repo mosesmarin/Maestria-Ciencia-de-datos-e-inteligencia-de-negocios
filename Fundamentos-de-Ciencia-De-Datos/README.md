@@ -24,3 +24,11 @@ Forma de entrega: Archivo anexo en BB.
 Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaje del curso. [[Actividad entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/Actividad%201-Mapa%20Conceptual.pdf)
 
 
+AC2 Actividad 2.
+Nombre: Actividad 2: Rasgos característicos de Big Data
+Tipo: Individual
+Descripción: Define las cinco características de Big Data: volumen, variedad, velocidad, veracidad y valor. Menciona dos ejemplos representativos de cada característica.
+Condiciones de satisfacción: Claridad en la definición de cada característica y dos ejemplos representativos de cada una.
+Fecha de entrega: El día martes 02 de febrero de 2021 en la hora de clase.
+Forma de entrega: Archivo anexo en BB.
+Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaje del curso.
