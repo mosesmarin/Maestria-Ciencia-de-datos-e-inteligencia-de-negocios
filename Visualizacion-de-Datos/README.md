@@ -3,6 +3,7 @@
 
 ## Clases
 [Clase 1 - 18-Ene-21](https://youtu.be/pe_jBqiaWT4)
+[Clase 1 - 25-Ene-21](https://youtu.be/JYlKXy-Ek04)
 
 ## Presentaciones
 [Unidad 1. Introducción a la visualización de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/presentaciones/DAT504-Unidad%201%20Primavera%202021.pdf)
