@@ -3,6 +3,7 @@
 
 ## Clases
 [Clase 1 - 18-Ene-21](https://youtu.be/pe_jBqiaWT4)
+
 [Clase 1 - 25-Ene-21](https://youtu.be/JYlKXy-Ek04)
 
 ## Presentaciones
