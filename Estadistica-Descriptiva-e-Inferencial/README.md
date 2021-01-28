@@ -22,7 +22,7 @@
 
 ## Investigaciones
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Investigación 1. Escalas o niveles de medición](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf) [Investigación entregada](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Investigación 1. Escalas o niveles de medición](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)   [[Investigación entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)
 
 
 
