@@ -41,15 +41,8 @@ Nota: Durante la clase habrá una revisión de avances al azar, por lo que debes
 
 AP1-Avance de proyecto 1
 EN PAREJAS
-
-
-
 Hola, te saludo con gusto para compartir contigo las indicaciones del primer avance de proyecto final del curso, que consisten en lo siguiente:
-
-
-
 PARTE 1: DESCRIPCIÓN DE LA SITUACIÓN (primer avance)
-
 Portada ejecutiva si es que ya lo presentas en el e-book
 Antecedentes de la empresa o contexto (una de las dos)
 Situación a mejorar o problema a resolver o análisis de una situación particular (uno de las tres) (verifica que tengas disponible una base de datos (mínimo 100 registros) que ayude a la toma de decisiones en el tema en particular. 
@@ -63,14 +56,11 @@ RIESGOS INICIALES (Amenazas y Oportunidades principales)
 SPONSOR (Persona que autoriza el Proyecto dentro de la empresa) (si aplica)
 DIRECTOR DEL PROYECTO EN LA EMPRESA (Junto con su responsabilidad y nivel de autoridad) (si aplica)
 CO-DIRECTOR DEL PROYECTO EN LA UNIVERSIDAD (facilitadora del curso, Junto con su responsabilidad y nivel de autoridad)
-
-
 Nota:
-
 Puedes empezar haciendo en un word o bien directamente en el e-book, como tu prefieras.
 Si cursas también fundamentos de inteligencia de negocios, busca empatar el contenido de ambos proyectos para entregar uno solo, en este caso sería el e-book.
 Si el proyecto será implementado en una empresa debes presentar autorización del mismo para uso de datos. El formato que puedes utilizar como guía es
-[carta de aceptación.docx](http://)
+[carta de aceptación.docx](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/archivos/carta%20de%20aceptaci%C3%B3n.docx)
 Si tienes alguna duda después de la explicación te pido contactarme por los medios indicados
 Algunas herramientas para hacer e-books. No importa que aparezca con marca de agua el logo de la herramienta
 https://www.flipsnack.com/
