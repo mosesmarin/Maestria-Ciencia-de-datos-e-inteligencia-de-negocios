@@ -6,6 +6,7 @@
 
 ## Clases
 [Clase 1 - 20-Ene-21](https://youtu.be/EUn2lUfmDRI)
+
 [Clase 2 - 27-Ene-21](https://youtu.be/IBGZXuG17Gs)
 
 ## Presentaciones
