@@ -16,16 +16,14 @@
 
 ## Hojas de Trabajo
 
-HT 1. Conceptos básicos de estadística &nbsp;&nbsp;&nbsp;&nbsp;[[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.docx) [[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.pdf) 
+HT 1. Conceptos básicos de estadística. &nbsp;&nbsp;&nbsp;&nbsp;[[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.docx) [[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.pdf) 
 &nbsp;&nbsp;&nbsp;&nbsp;[[Hoja entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstic-Moises.pdf)
 
-HT 2. Tablas y gráficas para datos cuantitativos [[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%202.%20Tablas%20y%20gr%C3%A1ficas%20para%20datos%20cuantitativos.docx) &nbsp;&nbsp;&nbsp;&nbsp;[[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%202.%20Tablas%20y%20gr%C3%A1ficas%20para%20datos%20cuantitativos.pdf)
+HT 2. Tablas y gráficas para datos cuantitativos. &nbsp;&nbsp;&nbsp;&nbsp;[[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%202.%20Tablas%20y%20gr%C3%A1ficas%20para%20datos%20cuantitativos.docx)[[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%202.%20Tablas%20y%20gr%C3%A1ficas%20para%20datos%20cuantitativos.pdf)
 
 ## Investigaciones
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Investigación 1. Escalas o niveles de medición](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)   
-
-[[Investigación entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)
+Investigación 1. Escalas o niveles de medición. &nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [[Investigación entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/MOISES-MARIN-INV1.pdf)
 
 
 
