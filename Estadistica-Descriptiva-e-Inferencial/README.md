@@ -50,7 +50,7 @@
 
 ER1. Conceptos básicos. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;[[Preguntas 1-2]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P1%2C2.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Preguntas 1-2]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P1%2C2.png)
 [[Preguntas 3-4]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P3%2C4.png)
 [[Preguntas 5-6]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P5%2C6.png)
 [[Preguntas 7-8]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P7%2C8.png)
@@ -59,7 +59,7 @@ ER1. Conceptos básicos.
 
 ER2. Tipo de variable y escalas de medición
 
-&nbsp;&nbsp;&nbsp;&nbsp;[[Preguntas 1-2]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P1%2C2.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Preguntas 1-2]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P1%2C2.png)
 [[Preguntas 3-4]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P3%2C4.png)
 [[Preguntas 5-6]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P5%2C6.png)
 [[Preguntas 7-8]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P7%2C8.png)
