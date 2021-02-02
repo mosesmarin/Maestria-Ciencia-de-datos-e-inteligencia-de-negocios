@@ -23,13 +23,13 @@ HT 2. Tablas y gráficas para datos cuantitativos. &nbsp;&nbsp;&nbsp;&nbsp;[[wor
 
 ## Investigaciones
 
-Investigación 1. Escalas o niveles de medición. &nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [[Investigación entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/MOISES-MARIN-INV1.pdf)
+Investigación 1. Escalas o niveles de medición. &nbsp;&nbsp;&nbsp;&nbsp;[[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [[Investigación entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/MOISES-MARIN-INV1.pdf)
 
 
 
 ## Utilerías
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una mirada a la estadística
+Una mirada a la estadística
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[El análisis estadístico en la planeación de Tequila Sauza](https://youtu.be/noF1hZUEoC0)
 
