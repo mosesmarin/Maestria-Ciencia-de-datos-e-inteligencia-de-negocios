@@ -16,13 +16,17 @@
 
 ## Hojas de Trabajo
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 1. Conceptos básicos de estadística [[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.docx) [[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.pdf) [[Hoja entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstic-Moises.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 1. Conceptos básicos de estadística [[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.docx) [[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.pdf) 
+
+[[Hoja entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstic-Moises.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HT 2. Tablas y gráficas para datos cuantitativos [[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%202.%20Tablas%20y%20gr%C3%A1ficas%20para%20datos%20cuantitativos.docx) [[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%202.%20Tablas%20y%20gr%C3%A1ficas%20para%20datos%20cuantitativos.pdf)
 
 ## Investigaciones
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Investigación 1. Escalas o niveles de medición](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)   [[Investigación entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Investigación 1. Escalas o niveles de medición](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)   
+
+[[Investigación entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)
 
 
 
@@ -43,7 +47,9 @@
 
 ## Examenes Rápidos
 
-ER1. Conceptos básicos. [[Preguntas 1-2]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P1%2C2.png)
+ER1. Conceptos básicos. 
+
+[[Preguntas 1-2]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P1%2C2.png)
 [[Preguntas 3-4]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P3%2C4.png)
 [[Preguntas 5-6]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P5%2C6.png)
 [[Preguntas 7-8]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P7%2C8.png)
@@ -51,6 +57,7 @@ ER1. Conceptos básicos. [[Preguntas 1-2]](https://github.com/mosesmarin/Maestri
 
 
 ER2. Tipo de variable y escalas de medición
+
 [[Preguntas 1-2]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P1%2C2.png)
 [[Preguntas 3-4]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P3%2C4.png)
 [[Preguntas 5-6]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P5%2C6.png)
