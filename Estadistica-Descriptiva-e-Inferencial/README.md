@@ -47,7 +47,7 @@ ER1. Conceptos básicos. [[Preguntas 1-2]](https://github.com/mosesmarin/Maestri
 [[Preguntas 3-4]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P3%2C4.png)
 [[Preguntas 5-6]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P5%2C6.png)
 [[Preguntas 7-8]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P7%2C8.png)
-[[Preguntas 9-10]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P9%2C10.png)
+[[Preguntas 9-10]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER1-P9%2C10.png)&nbsp;&nbsp;&nbsp;&nbsp;Calificación 9/10
 
 
 ER2. Tipo de variable y escalas de medición
@@ -55,5 +55,5 @@ ER2. Tipo de variable y escalas de medición
 [[Preguntas 3-4]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P3%2C4.png)
 [[Preguntas 5-6]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P5%2C6.png)
 [[Preguntas 7-8]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P7%2C8.png)
-[[Preguntas 9-10]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P9%2C10.png)
+[[Preguntas 9-10]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P9%2C10.png)&nbsp;&nbsp;&nbsp;&nbsp;Calificación 8/10
 
