@@ -43,5 +43,5 @@ Descripción: Utilizando como base el [documento PDF del ClickStream01](https://
 Condiciones de satisfacción: Cumplir con los lineamientos de los ClickStream definidos en el Plan del Curso. Mostrar detalladamente el proceso de instalación y asegurar que tengas acceso a las herramientas.
 Fecha de entrega: El día martes 02 de febrero de 2021 en la hora de clase.
 Forma de entrega: Archivo anexo en BB.
-Cómo se evaluará: Es parte de la ponderación de los reportes de aprendizaje.
+Cómo se evaluará: Es parte de la ponderación de los reportes de aprendizaje. [[Reporte Entregado]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/ClickStream%2001_%20Instalacio%CC%81n%20de%20una%20base%20de%20datos%20relacional.pdf)
 
