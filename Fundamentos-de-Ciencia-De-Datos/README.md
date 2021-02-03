@@ -5,7 +5,9 @@
 ## Clases
 [Clase 1 - 19-Ene-21](https://youtu.be/tboXvZCBTm4)
 
-[Clase 1 - 26-Ene-21](https://youtu.be/lwRezKacvNU)
+[Clase 2 - 26-Ene-21](https://youtu.be/lwRezKacvNU)
+
+[Clase 3 - 2-Feb-21](https://youtu.be/Cj-a4UMikfo)
 
 ## Presentaciones
 [Sesión 1. Plan del Curso y gestión de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/presentaciones/DAT501-S01-Introduccio%CC%81nGestio%CC%81nDatos.pdf)
