@@ -31,7 +31,7 @@ Descripción: Define las cinco características de Big Data: volumen, variedad, 
 Condiciones de satisfacción: Claridad en la definición de cada característica y dos ejemplos representativos de cada una.
 Fecha de entrega: El día martes 02 de febrero de 2021 en la hora de clase.
 Forma de entrega: Archivo anexo en BB.
-Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaje del curso.
+Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaje del curso.[[Actividad entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/Actividad%202_%20Rasgos%20caracteri%CC%81sticos%20de%20Big%20Data.pdf)
 
 
 ## Reportes de Aprendizaje
