@@ -9,6 +9,9 @@
 
 [Clase 2 - 27-Ene-21](https://youtu.be/IBGZXuG17Gs)
 
+[Clase 3 - 3-Feb-21](https://youtu.be/GwMd6qfOutg)
+
+
 ## Presentaciones
 [Módulo 1. Introducción y conceptos básicos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%201.%20Introduccio%CC%81n%20(conceptos%20ba%CC%81sicos).pdf)
 
@@ -41,6 +44,7 @@ Una mirada a la estadística
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Procesamiento de imágenes con técnicas estadísticas](https://youtu.be/6WOZIxuoKAM)
 
+[Archivo de Ventas](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Ventas.xlsx)
 
 ## Examenes Rápidos
 
