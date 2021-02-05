@@ -40,7 +40,7 @@ Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaj
 Actividad 3: Organización impulsada por datos
 Nombre: Actividad 3: Organización impulsada por datos y nuevos roles en ciencia de datos.
 Tipo: Individual
-Descripción: Utilizando los documentos adjuntos [02.Cultura_data_driven.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/02.Cultura_Data_Driven.pdf) [02.SAS-DataDrivenOrganization.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/02.SAS-DataDrivenOrganization.pdf) o las fuentes de información que prefieras, contesta las siguientes preguntas:
+Descripción: Utilizando los documentos adjuntos [02.Cultura_data_driven.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/02.Cultura_Data_Driven.pdf), [02.SAS-DataDrivenOrganization.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/02.SAS-DataDrivenOrganization.pdf) o las fuentes de información que prefieras, contesta las siguientes preguntas:
 ¿Qué es una organización manejada por los datos (DDB, por sus siglas en inglés)?
 Menciona tres beneficios de una organización impulsada por los datos.
 Resume los puntos sobre cómo instaurar una cultura data-driven en la empresa.
