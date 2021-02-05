@@ -14,7 +14,7 @@
 
 [Sesión 2. Conceptos de Big Data](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/presentaciones/DAT501-S02-FundamentosBigDataCS01.pdf)
 
-[Sesión 3. Fuentes de Big Data, empresas impulsadas por datos y nuevos roles en ciencia de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/presentaciones/DAT501-S03-DataDrivenRoles.pdf
+[Sesión 3. Fuentes de Big Data, empresas impulsadas por datos y nuevos roles en ciencia de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/presentaciones/DAT501-S03-DataDrivenRoles.pdf)
 
 ## Actividades
 
