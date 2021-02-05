@@ -37,6 +37,22 @@ Fecha de entrega: El día martes 02 de febrero de 2021 en la hora de clase.
 Forma de entrega: Archivo anexo en BB.
 Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaje del curso. [[Actividad entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/Actividad%202_%20Rasgos%20caracteri%CC%81sticos%20de%20Big%20Data.pdf)
 
+Actividad 3: Organización impulsada por datos
+Nombre: Actividad 3: Organización impulsada por datos y nuevos roles en ciencia de datos.
+Tipo: Individual
+Descripción: Utilizando los documentos adjuntos [02.Cultura_data_driven.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/02.Cultura_Data_Driven.pdf) [02.SAS-DataDrivenOrganization.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/archivos/02.SAS-DataDrivenOrganization.pdf) o las fuentes de información que prefieras, contesta las siguientes preguntas:
+¿Qué es una organización manejada por los datos (DDB, por sus siglas en inglés)?
+Menciona tres beneficios de una organización impulsada por los datos.
+Resume los puntos sobre cómo instaurar una cultura data-driven en la empresa.
+¿Cuáles son los tres pilares de una empresa impulsada por los datos?
+Explica dos de los ejemplos reales (zoom-in), presentados en el documento de SAS.
+Define los nuevos roles en el área de ciencia de datos: Chief Data Officer, Data Scientist y Data Steward.
+Condiciones de satisfacción: Responder de manera completa las seis preguntas de la descripción de la actividad. No olvides revisar los lineamientos de los trabajos de investigación que se encuentran en el plan del curso.
+Fecha de entrega: El día martes 09 de febrero de 2021 en la hora de clase.
+Forma de entrega: Archivo anexo en BB.
+Cómo se evaluará: Es parte de la ponderación de las actividades de aprendizaje del curso.
+Nota: Un punto extra al que defina qué tipo de modelo de empresa impulsada por los datos, corresponde a los ejemplos reales presentados en el documento de SAS.
+
 
 ## Reportes de Aprendizaje
 
