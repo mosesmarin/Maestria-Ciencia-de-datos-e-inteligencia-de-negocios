@@ -17,6 +17,8 @@
 
 [Módulo 1. Introducción (tablas de distribución de frecuencias e histogramas)](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%201.%20Introduccio%CC%81n%20(tablas%20de%20distribucio%CC%81n%20de%20frecuencias%20e%20histogramas).pptx.pdf)
 
+[Módulo 2. Medidas estadísticas](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%202.%20Medidas%20estadi%CC%81sticas.pdf)
+
 ## Hojas de Trabajo
 
 HT 1. Conceptos básicos de estadística. &nbsp;&nbsp;&nbsp;&nbsp;[[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.docx) [[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.pdf) 
