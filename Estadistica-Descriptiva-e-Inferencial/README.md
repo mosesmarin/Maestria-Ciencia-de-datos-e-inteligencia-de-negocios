@@ -19,6 +19,10 @@
 
 [Módulo 2. Medidas estadísticas](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%202.%20Medidas%20estadi%CC%81sticas.pdf)
 
+## Videos
+[Conceptos de medidas de posición](https://youtu.be/DXvI992kSxo)
+[Cálculo de medidas de posición](https://youtu.be/R0NgnTprYDY)
+
 ## Hojas de Trabajo
 
 HT 1. Conceptos básicos de estadística. &nbsp;&nbsp;&nbsp;&nbsp;[[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.docx) [[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.pdf) 
