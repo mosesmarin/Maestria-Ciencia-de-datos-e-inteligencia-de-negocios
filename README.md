@@ -34,3 +34,5 @@ Ligas Utiles:
 
 [Convertir word a pdf](https://www.ilovepdf.com/word_to_pdf)
 
+[Convertir powerpoint a pdf](https://www.ilovepdf.com/es/powerpoint_a_pdf)
+
