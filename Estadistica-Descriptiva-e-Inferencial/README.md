@@ -21,6 +21,7 @@
 
 ## Videos
 [Conceptos de medidas de posición](https://youtu.be/DXvI992kSxo)
+
 [Cálculo de medidas de posición](https://youtu.be/R0NgnTprYDY)
 
 ## Hojas de Trabajo
