@@ -6,9 +6,9 @@
 ## Clases
 [Clase 1 - 21-Ene-21](https://youtu.be/iUd9lsDdH8M)
 
-[Clase 2 - 28-Ene-21](https://youtu.be/iUd9lsDdH8M)
+[Clase 2 - 28-Ene-21](https://youtu.be/cqQBqjEpBak)
 
-[Clase 3 - 4-Feb-21](https://youtu.be/iUd9lsDdH8M)
+[Clase 3 - 4-Feb-21]
 
 [Clase 4 - 11-Feb-21](https://youtu.be/0UE07ryspiw)
 
