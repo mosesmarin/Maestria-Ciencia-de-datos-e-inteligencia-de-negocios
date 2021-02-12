@@ -19,6 +19,7 @@
 [Módulo 1. Introducción (tablas de distribución de frecuencias e histogramas)](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%201.%20Introduccio%CC%81n%20(tablas%20de%20distribucio%CC%81n%20de%20frecuencias%20e%20histogramas).pptx.pdf)
 
 [Módulo 2. Medidas estadísticas](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%202.%20Medidas%20estadi%CC%81sticas.pdf)
+[Módulo 2. Diagrama de caja-brazos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/M%C3%B3dulo%202.%20Diagrama%20de%20caja-brazos.pdf)
 
 ## Videos
 [Conceptos de medidas de posición](https://youtu.be/DXvI992kSxo)
