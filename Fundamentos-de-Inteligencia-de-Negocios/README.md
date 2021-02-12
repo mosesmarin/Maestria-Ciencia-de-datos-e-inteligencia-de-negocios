@@ -6,6 +6,12 @@
 ## Clases
 [Clase 1 - 21-Ene-21](https://youtu.be/iUd9lsDdH8M)
 
+[Clase 2 - 28-Ene-21](https://youtu.be/iUd9lsDdH8M)
+
+[Clase 3 - 4-Feb-21](https://youtu.be/iUd9lsDdH8M)
+
+[Clase 4 - 11-Feb-21](https://youtu.be/0UE07ryspiw)
+
 ## Presentaciones
 [Módulo 1. Introducción y conceptos básicos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Inteligencia-de-Negocios/presentaciones/DAT%20510-UNIDAD%20I%20PRIMAVERA%202021.pdf)
 
