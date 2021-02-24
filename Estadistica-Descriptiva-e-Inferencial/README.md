@@ -44,6 +44,9 @@ HT 3. Medidas estadísticas.&nbsp;&nbsp;&nbsp;&nbsp;[[word]](https://github.com/
 
 Investigación 1. Escalas o niveles de medición. &nbsp;&nbsp;&nbsp;&nbsp;[[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Investigaci%C3%B3n%201.%20Escalas%20de%20medici%C3%B3n.pdf)&nbsp;&nbsp;&nbsp;&nbsp; [[Investigación entregada]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/MOISES-MARIN-INV1.pdf)
 
+## Laboratorios
+
+Laboratorio 1. Medidas estadísticas descriptivas [[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Laboratorio%201.%20Medidas%20estad%C3%ADsticas%20descriptivas.docx) [[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Laboratorio%201.%20Medidas%20estad%C3%ADsticas%20descriptivas%20(1).pdf) [[spam.xlsx]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Laboratorio%201.%20Spam.xlsx) [[CellService]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Laboratorio%201.%20CellService.xlsx) [[Shoppers]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Laboratorio%201.%20Shoppers.xlsx) [[Documento Entregado]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Laboratorio%201.%20Medidas%20estad%C3%ADsticas%20descriptivas-moises.pdf)
 
 
 ## Utilerías
