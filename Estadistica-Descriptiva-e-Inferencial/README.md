@@ -30,6 +30,8 @@
 
 [Cálculo de medidas de posición](https://youtu.be/R0NgnTprYDY)
 
+[Diagrama de caja-brazos](https://youtu.be/1Qdigak2usU)
+
 ## Hojas de Trabajo
 
 HT 1. Conceptos básicos de estadística. &nbsp;&nbsp;&nbsp;&nbsp;[[word]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.docx) [[pdf]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/HT%201.%20Conceptos%20b%C3%A1sicos%20de%20estad%C3%ADstica.pdf) 
