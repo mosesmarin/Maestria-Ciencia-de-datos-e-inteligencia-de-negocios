@@ -19,7 +19,7 @@
 
 [Clase 7 - 3-Mar-21](https://youtu.be/88SOBAGZW7Q)
 
-[Clase 8 - 10-Mar-21](https://youtu.be/)
+[Clase 8 - 10-Mar-21](https://youtu.be/YsTnLOLJlAY)
 
 
 ## Presentaciones
