@@ -15,7 +15,7 @@
 
 [Clase 5 - 17-Feb-21](https://youtu.be/ro_5HWVnfHY)
 
-[Clase 6 - 24-Feb-21](https://youtu.be/)
+[Clase 6 - 24-Feb-21](https://youtu.be/_qLwHnp9B-o)
 
 [Clase 7 - 3-Mar-21](https://youtu.be/)
 
