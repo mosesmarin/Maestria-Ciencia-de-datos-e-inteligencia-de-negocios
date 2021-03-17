@@ -31,6 +31,12 @@
 
 [Módulo 2. Diagrama de caja-brazos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/M%C3%B3dulo%202.%20Diagrama%20de%20caja-brazos.pdf)
 
+[Módulo 3. Teoría de la probabilidad-Axiomas de probabilidad](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%203.%20Teori%CC%81a%20de%20la%20probabilidad-Axiomas%20de%20probabilidad.pdf)
+
+[Módulo 3. Teoría de la probabilidad-Conceptos básicos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%203.%20Teori%CC%81a%20de%20la%20probabilidad-Conceptos%20ba%CC%81sicos.pdf)
+
+[Módulo 3. Teoría de la probabilidad-Teoría de conjuntos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%203.%20Teori%CC%81a%20de%20la%20probabilidad-Teori%CC%81a%20de%20conjuntos%20(1).pdf)
+
 ## Videos
 [Conceptos de medidas de posición](https://youtu.be/DXvI992kSxo)
 
