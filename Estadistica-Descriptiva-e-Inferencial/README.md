@@ -55,7 +55,7 @@ Distribuciones discretas: Presentación de alumnos. &nbsp;&nbsp;&nbsp;&nbsp;  [[
 
 ## Exámenes parciales
 
-[Examen de medio término Estadística Descriptiva e Inferencial](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/Examen%20de%20medio%20te%CC%81rmino%20Estadi%CC%81stica%20Descriptiva%20e%20Inferencial.docx.pdf)&nbsp;&nbsp;&nbsp;&nbsp;Calificación: 49/49
+[Examen de medio término Estadística Descriptiva e Inferencial](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/Examen%20de%20medio%20te%CC%81rmino%20Estadi%CC%81stica%20Descriptiva%20e%20Inferencial.docx.pdf)&nbsp;&nbsp;[Examen con comentarios](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Examen%20de%20medio%20te%CC%81rmino%20Estadi%CC%81stica%20Descriptiva%20e%20Inferencial_con_comentarios).pdf)&nbsp;&nbsp;Calificación: 49/49
 
 
 ## Actividades Integradoras
