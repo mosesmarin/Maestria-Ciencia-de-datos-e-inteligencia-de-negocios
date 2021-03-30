@@ -52,6 +52,10 @@ Distribuciones discretas: Presentación de alumnos. &nbsp;&nbsp;&nbsp;&nbsp;  [[
 
 [Diagrama de caja-brazos](https://youtu.be/1Qdigak2usU)
 
+
+## Examen de medio término Estadística Descriptiva e Inferencial
+
+
 ## Actividades Integradoras
 
 Actividad Integradora 1. Tiempos de espera en bancos [[Descripción]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Actividad%20Integradora%201.%20Tiempos%20de%20espera%20en%20bancos.pdf) [[Datos]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Datos.%20Tiempos%20de%20espera%20en%20bancos.xlsx) [[Entrega]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/AI1_Moises_Edgar.pdf)
