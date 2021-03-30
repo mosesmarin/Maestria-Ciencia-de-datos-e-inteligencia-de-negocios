@@ -23,6 +23,8 @@
 
 [Clase 9 - 17-Mar-21](https://youtu.be/K0fYEDH2mDE)
 
+Clase 10 - 24-Mar-21 - Sin grabación, examen la sesión completa
+
 
 ## Presentaciones
 [Módulo 1. Introducción y conceptos básicos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%201.%20Introduccio%CC%81n%20(conceptos%20ba%CC%81sicos).pdf)
@@ -39,9 +41,9 @@
 
 [Módulo 3. Teoría de la probabilidad-Teoría de conjuntos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%203.%20Teori%CC%81a%20de%20la%20probabilidad-Teori%CC%81a%20de%20conjuntos%20(1).pdf)
 
-[Módulo 4. Distribuciones de probabilidad discretas]
+[Módulo 4. Distribuciones de probabilidad discretas](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/Mo%CC%81dulo%204.%20Distribuciones%20de%20probabilidad%20discretas.pdf)
 
-[Distribuciones discretas: Presentación de alumnos]
+Distribuciones discretas: Presentación de alumnos [Distribución Binomial.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/Distribucio%CC%81n%20Binomial.pdf) [Distribución Geométrica.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/Distribucio%CC%81n%20Geome%CC%81trica.pdf) [Distribución Hipergeométrica.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/Distribucio%CC%81n%20Hipergeome%CC%81trica.pdf) [Distribución de Poisson.pdf](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/Distribucio%CC%81n%20de%20Poisson.pdf) 
 
 ## Videos
 [Conceptos de medidas de posición](https://youtu.be/DXvI992kSxo)
