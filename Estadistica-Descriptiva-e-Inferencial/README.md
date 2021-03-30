@@ -141,7 +141,10 @@ ER2. Tipo de variable y escalas de medición
 
 [ER4. Histogramas](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/examen4.pdf) &nbsp;&nbsp;&nbsp;&nbsp;Calificación 9/10
 
+## Tareas
+Tarea 0. Guía de aprendizaje
 
+Tarea 1. Distribuciones discretas [[Documento entregado con retroalimentacion]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Tarea%2B1.%2BDistribuciones%2Bdiscretas.pdf) Calificación: 6.88/10
 
 ## Ligas Interesantes
 [Chapter 3: Levels Of Measurement And Scaling](http://www.fao.org/3/w3241e/w3241e04.htm)
