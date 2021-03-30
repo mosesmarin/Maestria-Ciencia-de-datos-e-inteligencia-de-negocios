@@ -60,7 +60,19 @@ Distribuciones discretas: Presentación de alumnos. &nbsp;&nbsp;&nbsp;&nbsp;  [[
 
 ## Actividades Integradoras
 
-Actividad Integradora 1. Tiempos de espera en bancos [[Descripción]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Actividad%20Integradora%201.%20Tiempos%20de%20espera%20en%20bancos.pdf) [[Datos]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Datos.%20Tiempos%20de%20espera%20en%20bancos.xlsx) [[Entrega]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/AI1_Moises_Edgar.pdf) [[Entrega con comentarios]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/AI1_Moises_Edgar_con_comentarios.pdf)
+Actividad Integradora 1. Tiempos de espera en bancos [[Descripción]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Actividad%20Integradora%201.%20Tiempos%20de%20espera%20en%20bancos.pdf) [[Datos]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/Datos.%20Tiempos%20de%20espera%20en%20bancos.xlsx) [[Entrega]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/AI1_Moises_Edgar.pdf) [[Entrega con comentarios]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/AI1_Moises_Edgar_con_comentarios.pdf) Calificación 9.69/10
+
+Comentarios: 
+Calificación final: 9.69.
+Detalles más específicos se encuentran dentro del documento de la actividad.
+Portada (2.78%) -- 10 -- Cumple con todos los datos de identificación.
+Introducción (2.78%) -- 10 -- Muy buena introducción que incluye el planteamiento del problema.
+Objetivo (5.56%) -- 9.5 -- Muy puntual y específico con un pequeño detalle.
+Análisis estadístico (55.56%) -- 9.5 -- Muy buen análisis estadístico, con algunos detalles. En su análisis flató considerar la variabilidad (varianza o desviación estándar).
+Conclusiones (11.11%) -- 10 -- Excelente
+Bibliografía (2.78%) -- 10 -- Excelente
+Anexos (16.67%) -- 10 -- ¿Si tuvieran una base de datos de millones de casos, la pondrían en anexos?
+Formato (2.78%) -- 10 --
 
 
 ## Hojas de Trabajo
