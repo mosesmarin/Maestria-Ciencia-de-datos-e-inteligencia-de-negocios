@@ -136,5 +136,9 @@ ER2. Tipo de variable y escalas de medición
 [[Preguntas 7-8]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P7%2C8.png)
 [[Preguntas 9-10]](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/ER2-P9%2C10.png)&nbsp;&nbsp;&nbsp;&nbsp;Calificación 8/10
 
+
+[ER3. Tablas de distribución de frecuencias](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/archivos/examen3.pdf)&nbsp;&nbsp;&nbsp;&nbsp;Calificación 10/10
+
+
 ## Ligas Interesantes
 [Chapter 3: Levels Of Measurement And Scaling](http://www.fao.org/3/w3241e/w3241e04.htm)
