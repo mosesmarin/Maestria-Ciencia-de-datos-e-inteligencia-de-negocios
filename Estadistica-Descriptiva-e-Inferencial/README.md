@@ -39,6 +39,10 @@
 
 [Módulo 3. Teoría de la probabilidad-Teoría de conjuntos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%203.%20Teori%CC%81a%20de%20la%20probabilidad-Teori%CC%81a%20de%20conjuntos%20(1).pdf)
 
+[Módulo 4. Distribuciones de probabilidad discretas]
+
+[Distribuciones discretas: Presentación de alumnos]
+
 ## Videos
 [Conceptos de medidas de posición](https://youtu.be/DXvI992kSxo)
 
