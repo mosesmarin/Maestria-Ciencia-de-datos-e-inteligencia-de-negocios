@@ -4,7 +4,25 @@
 ## Clases
 [Clase 1 - 18-Ene-21](https://youtu.be/pe_jBqiaWT4)
 
-[Clase 1 - 25-Ene-21](https://youtu.be/JYlKXy-Ek04)
+[Clase 2 - 25-Ene-21](https://youtu.be/JYlKXy-Ek04)
+
+[Clase 3 - 8-Feb-21](https://youtu.be/Sl1dg-bXBTI)
+
+[Clase 4 - 15-Feb-21](https://youtu.be/AtRfWLkQ-f4)
+
+[Clase 5 - 22-Feb-21](https://youtu.be/G85hrqARodA)
+
+[Clase 6 - 1-Mar-21](https://youtu.be/5R_aeHHQhg8)
+
+[Clase 7 - 8-Mar-21](https://youtu.be/Ykk0IQdAdpw)
+
+[Clase 8 - 5-Abr-21](https://youtu.be/E2o4u5L_kqs)
+
+[Clase 9 - 12-Abr-21](https://youtu.be/JYO0mzlNAP8)
+
+
+
+
 
 ## Presentaciones
 [Unidad 1. Introducción a la visualización de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Visualizacion-de-Datos/presentaciones/DAT504-Unidad%201%20Primavera%202021.pdf)
