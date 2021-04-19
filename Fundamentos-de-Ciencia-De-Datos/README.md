@@ -11,6 +11,22 @@
 
 [Clase 4 - 9-Feb-21](https://youtu.be/JvnuXYQhkjc)
 
+[Clase 5 - 16-Feb-21](https://youtu.be/JvnuXYQhkjc)
+
+[Clase 6 - 23-Feb-21](https://youtu.be/JvnuXYQhkjc)
+
+[Clase 7 - 2-Mar-21](https://youtu.be/JvnuXYQhkjc)
+
+[Clase 8 - 9-Mar-21](https://youtu.be/JvnuXYQhkjc)
+
+[Clase 9 - 16-Mar-21](https://youtu.be/JvnuXYQhkjc)
+
+[Clase 10 - 23-Mar-21](https://youtu.be/JvnuXYQhkjc)
+
+[Clase 11 - 6-Abr-21](https://youtu.be/JvnuXYQhkjc)
+
+[Clase 12 - 13-Abr-21](https://youtu.be/JvnuXYQhkjc)
+
 ## Presentaciones
 [Sesión 1. Plan del Curso y gestión de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/presentaciones/DAT501-S01-Introduccio%CC%81nGestio%CC%81nDatos.pdf)
 
