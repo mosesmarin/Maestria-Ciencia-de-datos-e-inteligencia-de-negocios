@@ -23,7 +23,11 @@
 
 [Clase 9 - 17-Mar-21](https://youtu.be/K0fYEDH2mDE)
 
-Clase 10 - 24-Mar-21 - Sin grabación, examen la sesión completa
+24-Mar-21 - Sin grabación, examen la sesión completa
+
+[Clase 10 - 7-Abr-21](https://youtu.be/I-8gwMzqQBQ)
+
+[Clase 11 - 14-Abr-21](https://youtu.be/ERl7pO-Jlgw)
 
 
 ## Presentaciones
