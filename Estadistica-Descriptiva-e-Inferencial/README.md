@@ -29,7 +29,7 @@
 
 [Clase 11 - 14-Abr-21](https://youtu.be/ERl7pO-Jlgw)
 
-[Clase 12 - 14-Abr-21](https://youtu.be/S4_tLBnM05g)
+[Clase 12 - 21-Abr-21](https://youtu.be/S4_tLBnM05g)
 
 
 ## Presentaciones
