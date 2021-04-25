@@ -27,6 +27,9 @@
 
 [Clase 12 - 13-Abr-21](https://youtu.be/TL20ImwPzmc)
 
+[Clase 13 - 20-Abr-21](https://youtu.be/UzuFtLzgLrk)
+
+
 ## Presentaciones
 [Sesión 1. Plan del Curso y gestión de datos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Ciencia-De-Datos/presentaciones/DAT501-S01-Introduccio%CC%81nGestio%CC%81nDatos.pdf)
 
