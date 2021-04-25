@@ -20,6 +20,7 @@
 
 [Clase 9 - 12-Abr-21](https://youtu.be/JYO0mzlNAP8)
 
+[Clase 10 - 19-Abr-21](https://youtu.be/o-eKkmE3eP4)
 
 
 
