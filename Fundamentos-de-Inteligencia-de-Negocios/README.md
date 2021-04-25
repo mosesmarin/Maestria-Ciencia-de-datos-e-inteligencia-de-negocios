@@ -10,7 +10,25 @@
 
 [Clase 3 - 4-Feb-21]
 
-[Clase 4 - 11-Feb-21](https://youtu.be/0UE07ryspiw)
+[Clase 4 - 11-Feb-21]()
+
+[Clase 5 - 18-Feb-21]()
+
+[Clase 6 - 25-Feb-21]()
+
+[Clase 7 - 4-Mar-21]()
+
+[Clase 8 - 11-Mar-21]()
+
+[Clase 9 - 18-Mar-21]()
+
+[Clase 10 - 25-Mar-21]()
+
+[Clase 11 - 8-Abr-21]()
+
+[Clase 12 - 22-Abr-21](https://youtu.be/t5mtjg2NGms)
+
+
 
 ## Presentaciones
 [Módulo 1. Introducción y conceptos básicos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Fundamentos-de-Inteligencia-de-Negocios/presentaciones/DAT%20510-UNIDAD%20I%20PRIMAVERA%202021.pdf)
