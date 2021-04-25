@@ -29,6 +29,8 @@
 
 [Clase 11 - 14-Abr-21](https://youtu.be/ERl7pO-Jlgw)
 
+[Clase 12 - 14-Abr-21](https://youtu.be/S4_tLBnM05g)
+
 
 ## Presentaciones
 [Módulo 1. Introducción y conceptos básicos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%201.%20Introduccio%CC%81n%20(conceptos%20ba%CC%81sicos).pdf)
