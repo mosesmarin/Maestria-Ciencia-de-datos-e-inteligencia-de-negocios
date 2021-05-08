@@ -34,6 +34,8 @@
 [Clase 13 - 28-Abr-21](https://youtu.be/6rGx-aBWcS4)
 
 
+
+
 ## Presentaciones
 [Módulo 1. Introducción y conceptos básicos](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/Estadistica-Descriptiva-e-Inferencial/presentaciones/Mo%CC%81dulo%201.%20Introduccio%CC%81n%20(conceptos%20ba%CC%81sicos).pdf)
 
@@ -60,6 +62,7 @@ Distribuciones discretas: Presentación de alumnos. &nbsp;&nbsp;&nbsp;&nbsp;  [[
 
 [Diagrama de caja-brazos](https://youtu.be/1Qdigak2usU)
 
+[Inferencias acerca de la media con MegaStat](https://youtu.be/Ypjk_Mb-SSU)
 
 ## Exámenes parciales
 
