@@ -36,4 +36,4 @@
 
 ### Abrir clase, ver gabación, mirar ahora
 
-![image9](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image9.png)
+![image9](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/Image9.png)
