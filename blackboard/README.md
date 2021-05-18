@@ -10,30 +10,30 @@
 
 ![image2](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image2.png)
 
-### Veras instrucciones indicando que debes recargar la pagina, recarga la pagina
+### Veras instrucciones indicando que debes recargar la página, recarga la página
 
 ![image3](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image3.png)
 
-### Abrir clase, ver gabación, mirar ahora
+### Continuando en la pestaña Network, ordena la tabla por la columna Type, busca renglones con type = media
 
 ![image4](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image4.png)
 
-### Abrir clase, ver gabación, mirar ahora
+### Click derecho en uno de los renglones con type = media > copy > copy link address
 
 ![image5](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image5.png)
 
-### Abrir clase, ver gabación, mirar ahora
+### Abrir aplicación VLC, [descarga gratuita en videolan.org](https://www.videolan.org/vlc/). Seleccionar Open Network
 
 ![image6](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image6.png)
 
-### Abrir clase, ver gabación, mirar ahora
+### Pegar liga en Url, Activar Stream Output, seleccionar Settings.
 
 ![image7](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image7.png)
 
-### Abrir clase, ver gabación, mirar ahora
+### Seleccionar Browse para elegir donde se guardará archivo de video, luego dar click en OK.
 
 ![image8](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image8.png)
 
-### Abrir clase, ver gabación, mirar ahora
+### En la ventana anterior, dar click en Open para comenzar descarga.
 
 ![image9](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/Image9.png)
