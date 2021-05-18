@@ -22,7 +22,11 @@
 
 [Clase 10 - 19-Abr-21](https://youtu.be/o-eKkmE3eP4)
 
+[Clase 11 - 26-Abr-21](https://youtu.be/Z5vOYtAAwjU)
 
+[Clase 12 - 3-May-21](https://youtu.be/3_kz3mxpLbk)
+
+[Clase 13 - 17-May-21](https://youtu.be/YDSu_L6004M)
 
 
 ## Presentaciones
