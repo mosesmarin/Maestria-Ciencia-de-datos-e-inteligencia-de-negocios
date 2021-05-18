@@ -28,7 +28,7 @@
 
 [Clase 12 - 22-Abr-21](https://youtu.be/t5mtjg2NGms)
 
-[Clase 13 - 29-Abr-21](https://youtu.be/hQRhJH1jK60)
+[Clase 13 - 29-Abr-21](https://youtu.be/kJy6aW8K2sA)
 
 [Clase 14 - 6-May-21](https://youtu.be/OCTISkWd5D4)
 
