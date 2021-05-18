@@ -8,25 +8,31 @@
 
 [Clase 2 - 28-Ene-21](https://youtu.be/cqQBqjEpBak)
 
-[Clase 3 - 4-Feb-21]
+[Clase 3 - 4-Feb-21](https://youtu.be/DM6c7_qv1Sc)
 
-[Clase 4 - 11-Feb-21]()
+[Clase 4 - 11-Feb-21](https://youtu.be/0UE07ryspiw)
 
-[Clase 5 - 18-Feb-21]()
+[Clase 5 - 18-Feb-21](https://youtu.be/mR6k7pwVpaM)
 
-[Clase 6 - 25-Feb-21]()
+[Clase 6 - 25-Feb-21](https://youtu.be/fyrnm9myD60)
 
-[Clase 7 - 4-Mar-21]()
+[Clase 7 - 4-Mar-21](https://youtu.be/oKqjhiMeXnw)
 
-[Clase 8 - 11-Mar-21]()
+[Clase 8 - 11-Mar-21](https://youtu.be/tbBCGyrSVtU)
 
-[Clase 9 - 18-Mar-21]()
+[Clase 9 - 18-Mar-21](https://youtu.be/4F03tNvhZ1s)
 
-[Clase 10 - 25-Mar-21]()
+[Clase 10 - 25-Mar-21](https://youtu.be/px71vGGgP_g)
 
-[Clase 11 - 8-Abr-21]()
+[Clase 11 - 8-Abr-21](https://youtu.be/Ok7mJlMEHtk)
 
 [Clase 12 - 22-Abr-21](https://youtu.be/t5mtjg2NGms)
+
+[Clase 13 - 29-Abr-21](https://youtu.be/hQRhJH1jK60)
+
+[Clase 14 - 6-May-21](https://youtu.be/OCTISkWd5D4)
+
+[Clase 15 - 13-May-21](https://youtu.be/dxuh1IiKoSk)
 
 
 
