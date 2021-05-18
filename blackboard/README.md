@@ -1,16 +1,16 @@
-### Abrir clase, ver gabación, mirar ahora
+### Abrir clase en navegador CHROME, ver gabación, mirar ahora
 
 ![image0](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image0.png)
 
-### Abrir clase, ver gabación, mirar ahora
+### Sin comenzar la reproducción, click derecho fuera de recuadro central> Inspect
 
 ![image1](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image1.png)
 
-### Abrir clase, ver gabación, mirar ahora
+### Seleccionar Network
 
 ![image2](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image2.png)
 
-### Abrir clase, ver gabación, mirar ahora
+### Veras instrucciones indicando que debes recargar la pagina, recarga la pagina
 
 ![image3](https://github.com/mosesmarin/Maestria-Ciencia-de-datos-e-inteligencia-de-negocios/blob/master/blackboard/images/image3.png)
 
